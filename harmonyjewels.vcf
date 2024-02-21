@@ -1,0 +1,39 @@
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=UTF-8:;Harmony Jewels;; ;
+FN: Harmony Jewels
+ORG:Sales Manager
+COMPANY:Sales Manager
+TITLE:Antea
+
+ADR;CHARSET=UTF-8;TYPE=WORK:;;;;;;
+TEL;TYPE=Work,pref:+44 7908490125
+TEL;CELL;TYPE=Mobile,VOICE:
+TEL;TYPE=WORK,VOICE:
+
+TEL;TYPE=Work,Fax:
+TEL;TYPE=Home,VOICE:
+TEL;TYPE=sms:
+URL;TYPE=Messenger:
+TEL;TYPE=SIGNAL:
+EMAIL;TYPE=Email:Sales@harmonyjewels.co.uk
+URL;TYPE=Digital Business Card:
+
+
+URL;TYPE=Location:https://maps.app.goo.gl/mp9CCqb3nML98jvz7
+KEY:OPENPGP4FPR:
+UID:SMART vCARD-100836199
+URL;TYPE=Website:https://www.harmonyjewels.co.uk/
+URL;TYPE=Calendar:
+URL;TYPE=WhatsApp:https://api.whatsapp.com/send/?phone=447908490125&text&type=phone_number&app_absent=0
+
+
+URL;TYPE=Instagram:https://www.instagram.com/harmonyjewelslondon?igsh=Y3N6azd4M3BqNWVn
+URL;TYPE=TikTok:https://www.tiktok.com/@harmonyjewelslondon?lang=en
+URL;TYPE=Facebook:https://www.facebook.com/harmonyjewelslondonuk
+URL;TYPE=Pinterest:https://www.pinterest.co.uk/harmonyjewelslondon/_created/
+
+PHOTO;ENCODING=b:iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAAAAACPAi4CAAAA1UlEQVR42u3VIQvCYBSFYX/LcSCCIigmGUuCzWJTsFpsmlYtRotgEASTIEy0KKYNDKLFgTgY579Y5IO1ucvafeMJT7jlFiisoIACCiigQD6AD3g0OZj8Rjsy4xGI/wfgSgHrKgLqDXRiCdDYAHMJUOYA5ZsAAB9V9CRAxAWwFABvsovaMw2QyAAhGZQwFAGcAds0wMo3tRJA3EYzzHADA/BsYUwesgOcoujxJAA+LdjRRQBwD7iBBOAI1k4EvOpwRADXgAxgXwrcK0Csj0UBBRRQIDfgC2FRDYRQ2y3AAAAAAElFTkSuQmCC
+NOTE;CHARSET=UTF-8:
+
+END:VCARD
